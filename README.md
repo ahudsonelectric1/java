@@ -2,3 +2,4 @@
 # Steps
 1. `sh installjava`
 2. Now you can execute java
+.dependabot/config.yml
